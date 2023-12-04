@@ -1,6 +1,4 @@
-### Hello, I'm Akshay!
 
-I'm a Computer Science & Data Science student at UW-Madison. 
 
 <!--
 **akjoshi2/akjoshi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
